@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T04:24:05.932Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="dl_-RrAbfQGoabNIBxhf" version="13.10.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-30T04:34:56.430Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="ZlrfeFjc8tgjGrFhaePZ" version="13.10.4" type="github" pages="2">
   <diagram id="TTvSSglgLCxyG-pp4QgG" name="Page-1">
     <mxGraphModel dx="1773" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -483,7 +483,7 @@
       <root>
         <mxCell id="XK3_EVJJMuR1I69KY353-0" />
         <mxCell id="XK3_EVJJMuR1I69KY353-1" parent="XK3_EVJJMuR1I69KY353-0" />
-        <mxCell id="XK3_EVJJMuR1I69KY353-2" value="生成" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="XK3_EVJJMuR1I69KY353-1">
+        <mxCell id="XK3_EVJJMuR1I69KY353-2" value="Generate" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="XK3_EVJJMuR1I69KY353-1">
           <mxGeometry x="-90" y="862" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XK3_EVJJMuR1I69KY353-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XK3_EVJJMuR1I69KY353-1" source="XK3_EVJJMuR1I69KY353-46" target="XK3_EVJJMuR1I69KY353-2">
@@ -501,7 +501,7 @@
         <mxCell id="XK3_EVJJMuR1I69KY353-5" value="" style="group" vertex="1" connectable="0" parent="XK3_EVJJMuR1I69KY353-1">
           <mxGeometry x="345" y="437" width="340" height="910" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-6" value="订单" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="XK3_EVJJMuR1I69KY353-5">
+        <mxCell id="XK3_EVJJMuR1I69KY353-6" value="Order" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="XK3_EVJJMuR1I69KY353-5">
           <mxGeometry y="435" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XK3_EVJJMuR1I69KY353-7" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XK3_EVJJMuR1I69KY353-5" source="XK3_EVJJMuR1I69KY353-6" target="XK3_EVJJMuR1I69KY353-26">
@@ -669,7 +669,7 @@
         <mxCell id="XK3_EVJJMuR1I69KY353-43" value="Customer rating" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-25">
           <mxGeometry y="870" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-44" value="配送" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="XK3_EVJJMuR1I69KY353-5">
+        <mxCell id="XK3_EVJJMuR1I69KY353-44" value="Delivery" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="XK3_EVJJMuR1I69KY353-5">
           <mxGeometry x="-10" y="741" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XK3_EVJJMuR1I69KY353-45" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="XK3_EVJJMuR1I69KY353-5" source="XK3_EVJJMuR1I69KY353-6" target="XK3_EVJJMuR1I69KY353-44">
@@ -678,7 +678,7 @@
             <mxPoint x="-170" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-46" value="驾驶员配送订单记录" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="XK3_EVJJMuR1I69KY353-1">
+        <mxCell id="XK3_EVJJMuR1I69KY353-46" value="Delivery order record" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="XK3_EVJJMuR1I69KY353-1">
           <mxGeometry x="-80" y="655" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XK3_EVJJMuR1I69KY353-47" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XK3_EVJJMuR1I69KY353-1" source="XK3_EVJJMuR1I69KY353-46" target="XK3_EVJJMuR1I69KY353-60">
@@ -754,43 +754,43 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XK3_EVJJMuR1I69KY353-59" value="" style="group" vertex="1" connectable="0" parent="XK3_EVJJMuR1I69KY353-1">
-          <mxGeometry x="-280" y="350" width="100" height="595" as="geometry" />
+          <mxGeometry x="-280" y="350" width="100" height="610" as="geometry" />
         </mxCell>
         <mxCell id="XK3_EVJJMuR1I69KY353-60" value="ID" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-59">
           <mxGeometry width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-61" value="订单ID" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-59">
+        <mxCell id="XK3_EVJJMuR1I69KY353-61" value="Order id" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-59">
           <mxGeometry y="50" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-62" value="驾驶员ID" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-59">
+        <mxCell id="XK3_EVJJMuR1I69KY353-62" value="Driver id" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-59">
           <mxGeometry y="100" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-63" value="油耗" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-59">
+        <mxCell id="XK3_EVJJMuR1I69KY353-63" value="Fuel consumption" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-59">
           <mxGeometry y="150" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-64" value="速度" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-59">
+        <mxCell id="XK3_EVJJMuR1I69KY353-64" value="Speed" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-59">
           <mxGeometry y="200" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-65" value="驾驶员评分" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-59">
+        <mxCell id="XK3_EVJJMuR1I69KY353-65" value="Driver score" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-59">
           <mxGeometry y="250" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-66" value="公式版本" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-59">
+        <mxCell id="XK3_EVJJMuR1I69KY353-66" value="Formula version" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-59">
           <mxGeometry y="300" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-67" value="&lt;span style=&quot;font-size: 10.5pt&quot;&gt;配送订单&lt;br&gt;时的驾龄&lt;/span&gt;&lt;span style=&quot;font-size: medium&quot;&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-59">
+        <mxCell id="XK3_EVJJMuR1I69KY353-67" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Driving age&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-59">
           <mxGeometry y="355" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-68" value="&lt;span style=&quot;font-size: 10.5pt&quot;&gt;配送订单&lt;br&gt;时的驾照级别&lt;/span&gt;&lt;span style=&quot;font-size: medium&quot;&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-59">
-          <mxGeometry y="405" width="100" height="40" as="geometry" />
+        <mxCell id="XK3_EVJJMuR1I69KY353-68" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Driving license level&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-59">
+          <mxGeometry x="-5" y="400" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-69" value="&lt;span style=&quot;font-size: 10.5pt&quot;&gt;配送订单使用的车辆的编号&lt;/span&gt;&lt;span style=&quot;font-size: medium&quot;&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-59">
-          <mxGeometry y="455" width="100" height="40" as="geometry" />
+        <mxCell id="XK3_EVJJMuR1I69KY353-69" value="&lt;span style=&quot;font-size: 10.5pt&quot;&gt;Vehicle number&lt;/span&gt;&lt;span style=&quot;font-size: medium&quot;&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-59">
+          <mxGeometry x="-5" y="450" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-70" value="&lt;span style=&quot;font-size: 10.5pt&quot;&gt;配送订单时已经连续工作的时长&lt;/span&gt;&lt;span style=&quot;font-size: medium&quot;&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-59">
-          <mxGeometry y="505" width="100" height="40" as="geometry" />
+        <mxCell id="XK3_EVJJMuR1I69KY353-70" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Continuously working time&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-59">
+          <mxGeometry x="-5" y="500" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-71" value="&lt;span style=&quot;font-size: 10.5pt&quot;&gt;订单创建时与出发地之间的距离&lt;/span&gt;&lt;span style=&quot;font-size: medium&quot;&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-59">
-          <mxGeometry y="555" width="100" height="40" as="geometry" />
+        <mxCell id="XK3_EVJJMuR1I69KY353-71" value="&lt;span style=&quot;font-size: 10.5pt&quot;&gt;Distance from&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;departure&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-59">
+          <mxGeometry x="-5" y="555" width="110" height="55" as="geometry" />
         </mxCell>
         <mxCell id="XK3_EVJJMuR1I69KY353-72" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="XK3_EVJJMuR1I69KY353-1" source="XK3_EVJJMuR1I69KY353-2" target="XK3_EVJJMuR1I69KY353-6">
           <mxGeometry relative="1" as="geometry">
@@ -798,7 +798,7 @@
             <mxPoint x="290" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-73" value="驾驶" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="XK3_EVJJMuR1I69KY353-1">
+        <mxCell id="XK3_EVJJMuR1I69KY353-73" value="Drive" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="XK3_EVJJMuR1I69KY353-1">
           <mxGeometry x="-90" y="1340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XK3_EVJJMuR1I69KY353-74" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="XK3_EVJJMuR1I69KY353-1" source="XK3_EVJJMuR1I69KY353-77" target="XK3_EVJJMuR1I69KY353-73">
@@ -819,7 +819,7 @@
             <mxPoint x="550" y="1300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-77" value="驾驶员" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="XK3_EVJJMuR1I69KY353-1">
+        <mxCell id="XK3_EVJJMuR1I69KY353-77" value="Driver" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="XK3_EVJJMuR1I69KY353-1">
           <mxGeometry x="-80" y="1188" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XK3_EVJJMuR1I69KY353-78" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XK3_EVJJMuR1I69KY353-1" source="XK3_EVJJMuR1I69KY353-77" target="XK3_EVJJMuR1I69KY353-86">
@@ -870,25 +870,25 @@
         <mxCell id="XK3_EVJJMuR1I69KY353-86" value="ID" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-85">
           <mxGeometry width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-87" value="驾驶员编号" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-85">
+        <mxCell id="XK3_EVJJMuR1I69KY353-87" value="Driver number" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-85">
           <mxGeometry y="50" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-88" value="姓名" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-85">
+        <mxCell id="XK3_EVJJMuR1I69KY353-88" value="Name" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-85">
           <mxGeometry y="100" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-89" value="驾龄" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-85">
+        <mxCell id="XK3_EVJJMuR1I69KY353-89" value="Driver&amp;nbsp;experience" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-85">
           <mxGeometry y="150" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-90" value="工龄" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-85">
+        <mxCell id="XK3_EVJJMuR1I69KY353-90" value="Length of service" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-85">
           <mxGeometry y="200" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-91" value="驾照级别" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-85">
+        <mxCell id="XK3_EVJJMuR1I69KY353-91" value="Driving license level" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-85">
           <mxGeometry y="250" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-92" value="车辆编号" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-85">
+        <mxCell id="XK3_EVJJMuR1I69KY353-92" value="Vehicle number" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-85">
           <mxGeometry y="300" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-93" value="车辆" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="XK3_EVJJMuR1I69KY353-1">
+        <mxCell id="XK3_EVJJMuR1I69KY353-93" value="Vehicle" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="XK3_EVJJMuR1I69KY353-1">
           <mxGeometry x="199" y="1350" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XK3_EVJJMuR1I69KY353-94" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="XK3_EVJJMuR1I69KY353-1" source="XK3_EVJJMuR1I69KY353-93" target="XK3_EVJJMuR1I69KY353-101">
@@ -936,22 +936,22 @@
         <mxCell id="XK3_EVJJMuR1I69KY353-101" value="ID" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-1">
           <mxGeometry x="-151" y="1512" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-102" value="车辆编号" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-1">
+        <mxCell id="XK3_EVJJMuR1I69KY353-102" value="Vehicle number" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-1">
           <mxGeometry x="569" y="1512" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-103" value="车辆型号" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-1">
+        <mxCell id="XK3_EVJJMuR1I69KY353-103" value="Vehicle model" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-1">
           <mxGeometry x="439" y="1512" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-104" value="发动机编号" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-1">
+        <mxCell id="XK3_EVJJMuR1I69KY353-104" value="Engine number" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-1">
           <mxGeometry x="319" y="1512" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-105" value="使用时长" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-1">
+        <mxCell id="XK3_EVJJMuR1I69KY353-105" value="Use time" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-1">
           <mxGeometry x="199" y="1512" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-106" value="载货量" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-1">
+        <mxCell id="XK3_EVJJMuR1I69KY353-106" value="Cargo capacity" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-1">
           <mxGeometry x="79" y="1512" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XK3_EVJJMuR1I69KY353-107" value="车牌号" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-1">
+        <mxCell id="XK3_EVJJMuR1I69KY353-107" value="Number plate" style="ellipse;whiteSpace=wrap;html=1;align=center;flipV=1;" vertex="1" parent="XK3_EVJJMuR1I69KY353-1">
           <mxGeometry x="-31" y="1512" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
